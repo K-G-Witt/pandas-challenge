@@ -17,7 +17,7 @@ These two .csv files need to be merged together by executing the script provided
 ## Usage Instructions:
 Following this, executing the script provided in the **PyCitySchools_AnalysisCode** Jupyter Lab Notebook will also output the following information:
 
-** At the Local Government Area (LGA) level:**
+**At the Local Government Area (LGA) level:**
 1. Total number of unique schools;
 2. Total number of students;
 3. Total budget;
@@ -27,7 +27,7 @@ Following this, executing the script provided in the **PyCitySchools_AnalysisCod
 7. Percentage of students passing reading;
 8. Percentage of students passing overall (i.e., passing both maths and reading).
 
-** At the school level:**
+**At the school level:**
 1. School names;
 2. School types (i.e., Government vs. Independent);
 3. Total number of students;
