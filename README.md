@@ -3,10 +3,10 @@
 ## Project Description:
 This project contains two separate .csv files:
 
-1. ** schools_complete:**
+1. **schools_complete:**
 Reports data on school names, types (i.e., Government vs. Independent), student size, and annual budget for 15 high schools within the Local Government Area (LGA).
 
-2. ** students_complete:**
+2. **students_complete:**
 Reports data on the student name, year level, reading score, and math score for the 39,169 students attending these 15 high schools within the Local Government Area (LGA).
 
 
